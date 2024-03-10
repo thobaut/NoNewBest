@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "cham.nonewbest",
+	"name": "NoNewBest",
+	"developer": "Cham",
+	"description": "Removes the \"New Best!\" text after getting a new best on a level"
+}
